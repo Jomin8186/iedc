@@ -25,7 +25,7 @@ body{
     background:linear-gradient(45deg,rgb(130, 87, 87),#ffe79e);
     align-items: center;
     max-width: 500px;
-    height:200px;
+    height:250px;
     justify-content: space-evenly;
     border-radius:8px;
     margin:10px;
@@ -65,17 +65,4 @@ button:hover{
 }
 .img{
     width:40px;
-}
-.pop-up{
-    position: absolute;
-    border-radius: 5px;
-    background-color: rgb(255, 255, 255);
-    text-align: center;
-    min-width:400px;
-    padding:20px;
-    bottom:20px;
-    left:30px;
-    a{
-        color:rgb(27, 71, 11);
-    }
 }
